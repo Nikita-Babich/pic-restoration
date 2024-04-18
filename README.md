@@ -1,0 +1,1 @@
+-static-libgcc -lgdi32 -lcomdlg32 -I"C:\Program Files (x86)\eigen-3.4.0"
